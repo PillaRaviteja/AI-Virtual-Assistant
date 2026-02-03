@@ -33,4 +33,17 @@ Check out the project running directly in your browser via **GitHub Pages**:
 1. Clone the repository:
    --  git clone https://github.com/PillaRaviteja/AI-Virtual-Assistant.git
 2. Open index.html in your browser.
-3. Start interacting with the assistant! 
+3. Start interacting with the assistant!
+
+---
+
+## 📸 Screenshots
+
+### Home Screen
+-[AI Assistant Home](assets/AI-HomePage.png)
+
+### Voice Interaction
+-[Voice Demo](assets/AI-Listening.png)
+
+
+
